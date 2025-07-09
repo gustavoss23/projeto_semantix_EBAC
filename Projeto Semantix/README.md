@@ -1,18 +1,18 @@
 
-# 🔋 Estimativa de Autonomia de Veículos Elétricos com Machine Learning
+# Estimativa de Autonomia de Veículos Elétricos com Machine Learning
 
 Este projeto tem como objetivo prever a autonomia (em quilômetros) de veículos elétricos com base em suas especificações técnicas e físicas, utilizando técnicas de aprendizado de máquina.
 
-## 📌 Problema
+## Problema
 Com a popularização dos veículos elétricos, prever a autonomia de um modelo se tornou um desafio técnico e comercial relevante. Uma estimativa precisa da autonomia pode auxiliar consumidores, fabricantes e gestores públicos no planejamento urbano e de infraestrutura de recarga.
 
-## 📂 Fonte de Dados
+## Fonte de Dados
 - Dataset: [Electric Vehicle Specifications Dataset 2025 – Kaggle](https://www.kaggle.com/datasets/urvishahir/electric-vehicle-specifications-dataset-2025)
 - Registros: 478 modelos de veículos elétricos
 - Atributos: 19 colunas com características físicas e técnicas
 - Variável alvo: `range_km`
 
-## 🔍 Etapas do Projeto
+## Etapas do Projeto
 1. **Importação de Bibliotecas e Leitura dos Dados**
 2. **Análise Exploratória (EDA)**
 3. **Pré-processamento de dados**
